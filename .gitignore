@@ -1,0 +1,27 @@
+*.bak
+*.pyc
+*.uvopt
+*.dep
+*.o
+*.d
+*.crf
+*.htm
+*.hex
+*.axf
+*.lst
+*.lnp
+*.map
+*.sct
+*.swp
+
+*.Mike
+
+# Altium files #
+################
+History
+*.PRJPCBStructure
+Project*
+__Previews
+*.IntLib
+.svn
+
