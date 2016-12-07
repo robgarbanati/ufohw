@@ -2,3 +2,5 @@
 Version=1.0
 [Project1]
 ProjectPath=CTR-Controller-Rev-A\CTR-Controller-Rev-A.PrjPcb
+[Project2]
+ProjectPath=..\elec\dash_board\rev_c3\Dash Board Rev C3.PrjPcb
