@@ -3,8 +3,8 @@ Version=1.0
 [Project1]
 ProjectPath=CTR-Controller-Rev-A\CTR-Controller-Rev-A.PrjPcb
 [Project2]
-ProjectPath=..\elec\dash_board\rev_c3\Dash Board Rev C3.PrjPcb
-[Project3]
 ProjectPath=..\Unacuna\sway_elec\boards\Sway_Rev_D\Sway_Rev_D.PrjPCB
-[Project4]
+[Project3]
 ProjectPath=..\Unacuna\sway_elec\boards\Sway_Control_Rev_D\Sway_Control_Rev_D.PrjPCB
+[Project4]
+ProjectPath=..\dash-elec\dash_board\rev_c3\Dash Board Rev C3.PrjPcb
