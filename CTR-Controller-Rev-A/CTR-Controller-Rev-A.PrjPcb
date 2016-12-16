@@ -157,79 +157,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for CTR-Controller-Rev-A\CTR-Controller-Rev-A.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for CTR-Controller-Rev-A\CTR-Controller-Rev-A.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for CTR-Controller-Rev-A\CTR-Controller-Rev-A.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for CTR-Controller-Rev-A\CTR-Controller-Rev-A.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for CTR-Controller-Rev-A\CTR-Controller-Rev-A.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for CTR-Controller-Rev-A\CTR-Controller-Rev-A.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for CTR-Controller-Rev-A\CTR-Controller-Rev-A.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for CTR-Controller-Rev-A\CTR-Controller-Rev-A.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for CTR-Controller-Rev-A\CTR-Controller-Rev-A.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for CTR-Controller-Rev-A\CTR-Controller-Rev-A.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for CTR-Controller-Rev-A\CTR-Controller-Rev-A.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for CTR-Controller-Rev-A\CTR-Controller-Rev-A.REP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for CTR-Controller-Rev-A\CTR-Controller-Rev-A.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for CTR-Controller-Rev-A\CTR-Controller-Rev-A.xls
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -1622,26 +1549,26 @@ ComponentUpdate47=1
 ComponentIsDeviceSheet47=0
 ComponentLibIdentifierKind48=Library Name And Type
 ComponentLibraryIdentifier48=OLogic-RF-Osc.IntLib
-ComponentDesignItemID48=
-ComponentSymbolReference48=nRF52832_QFAA
+ComponentDesignItemID48=Antenna2.4GHz
+ComponentSymbolReference48=Antenna2.4GHz
 ComponentUpdate48=1
 ComponentIsDeviceSheet48=0
 ComponentLibIdentifierKind49=Library Name And Type
 ComponentLibraryIdentifier49=OLogic-RF-Osc.IntLib
-ComponentDesignItemID49=Antenna2.4GHz
-ComponentSymbolReference49=Antenna2.4GHz
+ComponentDesignItemID49=CRYSTAL 32.0000MHZ 8PF SMD
+ComponentSymbolReference49=CRYSTAL 32.0000MHZ 8PF SMD
 ComponentUpdate49=1
 ComponentIsDeviceSheet49=0
 ComponentLibIdentifierKind50=Library Name And Type
 ComponentLibraryIdentifier50=OLogic-RF-Osc.IntLib
-ComponentDesignItemID50=CRYSTAL 32.0000MHZ 8PF SMD
-ComponentSymbolReference50=CRYSTAL 32.0000MHZ 8PF SMD
+ComponentDesignItemID50=CRYSTAL 32.768KHZ 12.5PF 2-SMD
+ComponentSymbolReference50=CRYSTAL 32.768KHZ 12.5PF 2-SMD
 ComponentUpdate50=1
 ComponentIsDeviceSheet50=0
 ComponentLibIdentifierKind51=Library Name And Type
 ComponentLibraryIdentifier51=OLogic-RF-Osc.IntLib
-ComponentDesignItemID51=CRYSTAL 32.768KHZ 12.5PF 2-SMD
-ComponentSymbolReference51=CRYSTAL 32.768KHZ 12.5PF 2-SMD
+ComponentDesignItemID51=nRF52832_QFAA
+ComponentSymbolReference51=nRF52832_QFAA
 ComponentUpdate51=1
 ComponentIsDeviceSheet51=0
 ComponentLibIdentifierKind52=Library Name And Type
