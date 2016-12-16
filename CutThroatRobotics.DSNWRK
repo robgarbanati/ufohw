@@ -8,3 +8,5 @@ ProjectPath=..\Unacuna\sway_elec\boards\Sway_Rev_D\Sway_Rev_D.PrjPCB
 ProjectPath=..\Unacuna\sway_elec\boards\Sway_Control_Rev_D\Sway_Control_Rev_D.PrjPCB
 [Project4]
 ProjectPath=..\dash\elec\dash_board\rev_c3\Dash Board Rev C3.PrjPcb
+[Project5]
+ProjectPath=..\paprika_ee\device\Paprika Rev B\Paprika Rev B.PrjPcb
