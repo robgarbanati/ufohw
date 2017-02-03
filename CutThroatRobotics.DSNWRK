@@ -1,4 +1,8 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=CTR-Lower-Main-Board-Rev-B\CTR-Lower-Main-Board-Rev-B.PrjPcb
+ProjectPath=CTR-Lower-Main-Board-Rev-C\CTR-Lower-Main-Board-Rev-C.PrjPcb
+[Project2]
+ProjectPath=CTR-Upper-Main-Board-Rev-A\CTR-Upper-Main-Board-Rev-A.PrjPcb
+[Project3]
+ProjectPath=CTR-Dome-Rev-A\CTR-Dome-Rev-A.PrjPcb

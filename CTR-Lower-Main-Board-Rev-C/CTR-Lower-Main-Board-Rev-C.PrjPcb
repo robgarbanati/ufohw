@@ -39,13 +39,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=CTR-Lower-Main-Board-Rev-B-BTLE-1.SchDoc
+DocumentPath=CTR-Lower-Main-Board-Rev-C-BTLE-1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -53,16 +53,16 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MVVREMVT
+DocumentUniqueId=
 
 [Document2]
-DocumentPath=CTR-Lower-Main-Board-Rev-B-Motor-2.SchDoc
+DocumentPath=CTR-Lower-Main-Board-Rev-C-Motor-2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=2
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -73,13 +73,13 @@ GenerateClassCluster=0
 DocumentUniqueId=GWYBXOYD
 
 [Document3]
-DocumentPath=CTR-Lower-Main-Board-Rev-B-Power-3.SchDoc
+DocumentPath=CTR-Lower-Main-Board-Rev-C-Power-3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=3
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -90,13 +90,13 @@ GenerateClassCluster=0
 DocumentUniqueId=YOSOVYRN
 
 [Document4]
-DocumentPath=CTR-Lower-Main-Board-Rev-B-Sensors-4.SchDoc
+DocumentPath=CTR-Lower-Main-Board-Rev-C-Sensors-4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=4
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -104,16 +104,16 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IBVFNCLJ
+DocumentUniqueId=
 
 [Document5]
-DocumentPath=CTR-Lower-Main-Board-Rev-B-LED-5.SchDoc
+DocumentPath=CTR-Lower-Main-Board-Rev-C-LED-5.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=1
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -121,10 +121,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AXSSHNHT
+DocumentUniqueId=
 
 [Document6]
-DocumentPath=CTR-Lower-Main-Board-Rev-B.PcbDoc
+DocumentPath=CTR-Lower-Main-Board-Rev-C.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139,6 +139,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VBVBPNQG
+
+[Document7]
+DocumentPath=..\CTR-Upper-Main-Board-Rev-A\IdealDiode.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KNQCOHOF
 
 [Configuration1]
 Name=Default Configuration
