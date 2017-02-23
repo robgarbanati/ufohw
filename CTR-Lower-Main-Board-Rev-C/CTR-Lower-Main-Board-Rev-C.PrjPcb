@@ -53,7 +53,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MVVREMVT
 
 [Document2]
 DocumentPath=CTR-Lower-Main-Board-Rev-C-Motor-2.SchDoc
@@ -104,7 +104,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IBVFNCLJ
 
 [Document5]
 DocumentPath=CTR-Lower-Main-Board-Rev-C-LED-5.SchDoc
@@ -121,7 +121,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AXSSHNHT
 
 [Document6]
 DocumentPath=CTR-Lower-Main-Board-Rev-C.PcbDoc
@@ -410,7 +410,7 @@ OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType12=Schematic Print
 OutputName12=Schematic Prints
-OutputDocumentPath12=C:\Users\Rob\Documents\OLogic\ctr-hardware\CTR-Controller-Rev-A\CTR-Controller-Rev-A-Sensors-4.SchDoc
+OutputDocumentPath12=C:\Users\Rob\Documents\OLogic\ctr-hardware\CTR-Lower-Main-Board-Rev-C\CTR-Lower-Main-Board-Rev-C-BTLE-1.SchDoc
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
