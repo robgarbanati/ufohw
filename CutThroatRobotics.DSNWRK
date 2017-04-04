@@ -8,5 +8,3 @@ ProjectPath=CTR-Upper-Main-Board-Rev-A\CTR-Upper-Main-Board-Rev-A.PrjPcb
 ProjectPath=CTR-Dome-Rev-A\CTR-Dome-Rev-A.PrjPcb
 [Project4]
 ProjectPath=CTR-Lower-Main-Board-Rev-B\CTR-Lower-Main-Board-Rev-B.PrjPcb
-[Project5]
-ProjectPath=..\superflex\wireless-motor-sensor-cluster\hardware\IQ80_MotorController\IQ80MotorController.PrjPcb
