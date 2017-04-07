@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VBVBPNQG
 
 [Document2]
 DocumentPath=CTR-Upper-Main-Board-Rev-B.SchDoc
@@ -61,7 +61,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -275,23 +275,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
-DocumentPath=..\..\..\Downloads\IQ80 (2)\IQ80.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -300,6 +283,7 @@ ReleaseItemId=
 Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=
+ConfigurationType=
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -1126,7 +1110,7 @@ Type32=1
 Type33=1
 Type34=1
 Type35=1
-Type36=1
+Type36=0
 Type37=1
 Type38=1
 Type39=1

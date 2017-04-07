@@ -239,7 +239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LVNUEMVE
+DocumentUniqueId=HAIPVIMM
 
 [Configuration1]
 Name=Default Configuration
@@ -249,6 +249,7 @@ ReleaseItemId=
 Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=
+ConfigurationType=
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
