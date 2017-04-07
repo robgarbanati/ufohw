@@ -5,12 +5,10 @@ ProjectPath=CTR-Lower-Main-Board-Rev-C\CTR-Lower-Main-Board-Rev-C.PrjPcb
 [Project2]
 ProjectPath=CTR-Upper-Main-Board-Rev-B\CTR-Upper-Main-Board-Rev-B.PrjPcb
 [Project3]
-ProjectPath=CTR-Upper-Main-Board-Rev-A\CTR-Upper-Main-Board-Rev-A.PrjPcb
-[Project4]
 ProjectPath=CTR-Dome-Rev-B\CTR-Dome-Rev-B.PrjPcb
-[Project5]
-ProjectPath=CTR-Dome-Rev-A\CTR-Dome-Rev-A.PrjPcb
-[Project6]
+[Project4]
 ProjectPath=CTR-Lower-Main-Board-Rev-B\CTR-Lower-Main-Board-Rev-B.PrjPcb
-[Project7]
+[Project5]
 ProjectPath=CTR-IMU-Board-Rev-A\CTR-IMU-Board-Rev-B.PrjPcb
+[Project6]
+ProjectPath=CTR-Charging-Base-Rev-B\CTR-Charging-Base-Rev-B.PrjPcb
