@@ -148,258 +148,6 @@ VariationCount=1
 Variation1=Designator=UART|UniqueId=\ATLAYMYP|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\BOM\Bill of Materials-CTR-Charging-Base-Rev-A(No HDR).xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ExportSTEP\CTR-Charging-Base-Rev-A(No HDR).step
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\CTR-Charging-Base-Rev-A-BOM.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\NC Drill\CTR-Charging-Base-Rev-A-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\NC Drill\CTR-Charging-Base-Rev-A-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\NC Drill\CTR-Charging-Base-Rev-A.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\Gerber\CTR-Charging-Base-Rev-A.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\Gerber\CTR-Charging-Base-Rev-A.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\Gerber\CTR-Charging-Base-Rev-A.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\Gerber\CTR-Charging-Base-Rev-A.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\Gerber\CTR-Charging-Base-Rev-A.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\Gerber\CTR-Charging-Base-Rev-A.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\Gerber\CTR-Charging-Base-Rev-A.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\Gerber\CTR-Charging-Base-Rev-A.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\Gerber\CTR-Charging-Base-Rev-A.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\Gerber\CTR-Charging-Base-Rev-A.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\Gerber\CTR-Charging-Base-Rev-A.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\NC Drill\CTR-Charging-Base-Rev-A.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\Gerber\CTR-Charging-Base-Rev-A.REP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\CTR-Charging-Base-Rev-A.REP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\Gerber\CTR-Charging-Base-Rev-A.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\mechanical_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\mechanical_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\mechanical_3\features
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\mechanical_13\features
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\mechanical_15\features
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\rout\features
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\symbols\oval78.7402x157.4803_30\features
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\symbols\oval86.7402x165.4803_30\features
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\symbols\oval157.4803x78.7402_30\features
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\symbols\oval165.4803x86.7402_30\features
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\symbols\oval177.1654x78.7402_30\features
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\symbols\oval185.1654x86.7402_30\features
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\symbols\rect62.9921x78.7402_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\symbols\rect62.9921x82.6772_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\symbols\rect70.8661x15.748_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\symbols\rect70.9921x86.7402_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\symbols\rect70.9921x90.6772_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\symbols\rect74.8031x70.8661_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\symbols\rect78.8661x23.748_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\symbols\rect82.8031x78.8661_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\Pick Place\Pick Place for CTR-Charging-Base-Rev-A(No HDR).txt
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument62]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
-[GeneratedDocument63]
-DocumentPath=Project Outputs for CTR-Charging-Base-Rev-A\ODB\odb\steps\pcb\layers\rout\tools
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -452,7 +200,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -563,7 +311,7 @@ OutputDefault21=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -654,7 +402,7 @@ PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Test Points For Assembly
 OutputName1=Test Point Report
@@ -760,7 +508,7 @@ Configuration3_Item41=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Ful
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -870,7 +618,7 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Script
 OutputName1=Script Output
@@ -919,7 +667,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1099,7 +847,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Configuration compliance
 OutputName1=Environment configuration compliance check
@@ -1138,7 +886,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB

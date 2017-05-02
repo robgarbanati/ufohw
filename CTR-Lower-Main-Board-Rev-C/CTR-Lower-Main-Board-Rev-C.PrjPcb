@@ -323,346 +323,6 @@ Variation38=Designator=UART|UniqueId=\WGPKUUKS|Kind=1|AlternatePart=
 Variation39=Designator=CN1|UniqueId=\FAURVJEO|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\BOM\Bill of Materials-CTR-Lower-Main-Board-Rev-C(6V Motor Power).xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ExportSTEP\CTR-Lower-Main-Board-Rev-C(6V Motor Power).step
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\NC Drill\CTR-Lower-Main-Board-Rev-C.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\NC Drill\CTR-Lower-Main-Board-Rev-C.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.REP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\CTR-Lower-Main-Board-Rev-C.REP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\NC Drill\CTR-Lower-Main-Board-Rev-C.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\mechanical_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\mechanical_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\mechanical_3\features
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\mechanical_13\features
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\mechanical_15\features
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\rout\features
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect19.685x25.5906_30\features
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect20x10_300\features
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect23.622x62.9921_150\features
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect23.622x62.9921_330\features
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect25x94_120\features
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect27.685x33.5906_30\features
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect28x18_300\features
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect31.622x70.9921_150\features
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect31.622x70.9921_330\features
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect33x102_120\features
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect47.2441x70.8661_150\features
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect47.2441x70.8661_330\features
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect55.2441x78.8661_150\features
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect55.2441x78.8661_330\features
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect80x60_120\features
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect88x68_120\features
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect118.1102x62.9921_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect118.1102x62.9921_120\features
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect118.1102x62.9921_240\features
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect118.1102x62.9921_300\features
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect126.1102x70.9921_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument62]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect126.1102x70.9921_120\features
-DItemRevisionGUID=
-
-[GeneratedDocument63]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect126.1102x70.9921_240\features
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect126.1102x70.9921_300\features
-DItemRevisionGUID=
-
-[GeneratedDocument65]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect137.7953x39.3701_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument66]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect137.7953x39.3701_120\features
-DItemRevisionGUID=
-
-[GeneratedDocument67]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect137.7953x39.3701_240\features
-DItemRevisionGUID=
-
-[GeneratedDocument68]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect137.7953x39.3701_300\features
-DItemRevisionGUID=
-
-[GeneratedDocument69]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect145.7953x47.3701_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument70]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect145.7953x47.3701_120\features
-DItemRevisionGUID=
-
-[GeneratedDocument71]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect145.7953x47.3701_240\features
-DItemRevisionGUID=
-
-[GeneratedDocument72]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect145.7953x47.3701_300\features
-DItemRevisionGUID=
-
-[GeneratedDocument73]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\s24.4094_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument74]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\s24.4094_210\features
-DItemRevisionGUID=
-
-[GeneratedDocument75]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\s24.4094_300\features
-DItemRevisionGUID=
-
-[GeneratedDocument76]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\s32.4094_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument77]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\s32.4094_210\features
-DItemRevisionGUID=
-
-[GeneratedDocument78]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\s32.4094_300\features
-DItemRevisionGUID=
-
-[GeneratedDocument79]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument80]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument81]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Pick Place\Pick Place for CTR-Lower-Main-Board-Rev-C(6V Motor Power).txt
-DItemRevisionGUID=
-
-[GeneratedDocument82]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument83]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument84]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
-[GeneratedDocument85]
-DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\rout\tools
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -715,7 +375,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -826,7 +486,7 @@ OutputDefault21=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -917,7 +577,7 @@ PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Test Points For Assembly
 OutputName1=Test Point Report
@@ -1023,7 +683,7 @@ Configuration3_Item41=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Ful
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -1135,48 +795,48 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Script
-OutputName1=Script Output
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-OutputType2=SimpleBOM
-OutputName2=Simple BOM
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=Filter
+Configuration1_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1807|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Supplier Part Number 1=True|Description=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=200|Description=422|LibRef=219|Designator=421|Quantity=67|Manufacturer 1=218|Manufacturer Part Number 1=169|Supplier 1=82|Supplier Part Number 1=143|Footprint=201|Voltage - Rated=103|Supplier Stock 1=106|Supplier Unit Price 1=127
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=SinglePinNetReporter
-OutputName3=Report Single Pin Nets
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=BOM_PartType
-OutputName4=Bill of Materials
+OutputType4=Script
+OutputName4=Script Output
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-Configuration4_Name1=ColumnNameFormat
-Configuration4_Item1=CaptionAsName
-Configuration4_Name2=Filter
-Configuration4_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration4_Name3=General
-Configuration4_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1807|FormHeight=696|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
-Configuration4_Name4=GroupOrder
-Configuration4_Item4=Supplier Part Number 1=True|Description=True
-Configuration4_Name5=SortOrder
-Configuration4_Item5=Designator=Up|Comment=Up|Footprint=Up
-Configuration4_Name6=VisibleOrder
-Configuration4_Item6=Comment=200|Description=422|LibRef=219|Designator=421|Quantity=67|Manufacturer 1=218|Manufacturer Part Number 1=169|Supplier 1=82|Supplier Part Number 1=143|Footprint=201|Voltage - Rated=103|Supplier Stock 1=106|Supplier Unit Price 1=127
-OutputType5=ComponentCrossReference
-OutputName5=Component Cross Reference Report
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=ReportHierarchy
-OutputName6=Report Project Hierarchy
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
@@ -1184,7 +844,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1364,7 +1024,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Configuration compliance
 OutputName1=Environment configuration compliance check
@@ -1403,7 +1063,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1454,7 +1114,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=DELL5110cn3F8FCB
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
