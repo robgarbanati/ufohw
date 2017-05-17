@@ -323,6 +323,686 @@ Variation38=Designator=UART|UniqueId=\WGPKUUKS|Kind=1|AlternatePart=
 Variation39=Designator=CN1|UniqueId=\FAURVJEO|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\BOM\Bill of Materials-CTR-Lower-Main-Board-Rev-C(6V Motor Power).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\BOM\Bill of Materials-CTR-Lower-Main-Board-Rev-C(VSW Motor Power).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ExportSTEP\CTR-Lower-Main-Board-Rev-C(6V Motor Power).step
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ExportSTEP\CTR-Lower-Main-Board-Rev-C(VSW Motor Power).step
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\NC Drill\CTR-Lower-Main-Board-Rev-C.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\NC Drill\CTR-Lower-Main-Board-Rev-C.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\NC Drill\CTR-Lower-Main-Board-Rev-C.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\NC Drill\CTR-Lower-Main-Board-Rev-C.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.REP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\CTR-Lower-Main-Board-Rev-C.REP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.REP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\CTR-Lower-Main-Board-Rev-C.REP
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\Gerber\CTR-Lower-Main-Board-Rev-C.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\NC Drill\CTR-Lower-Main-Board-Rev-C.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\NC Drill\CTR-Lower-Main-Board-Rev-C.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\mechanical_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\mechanical_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\mechanical_13\features
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\mechanical_15\features
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\rout\features
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect19.685x25.5906_30\features
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect20x10_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect23.622x62.9921_150\features
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect23.622x62.9921_330\features
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect25x94_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect27.685x33.5906_30\features
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect28x18_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect31.622x70.9921_150\features
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect31.622x70.9921_330\features
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect33x102_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect47.2441x70.8661_150\features
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect47.2441x70.8661_330\features
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect55.2441x78.8661_150\features
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect55.2441x78.8661_330\features
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect80x60_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect88x68_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect118.1102x62.9921_60\features
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect118.1102x62.9921_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect118.1102x62.9921_240\features
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect118.1102x62.9921_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect126.1102x70.9921_60\features
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect126.1102x70.9921_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect126.1102x70.9921_240\features
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect126.1102x70.9921_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect137.7953x39.3701_60\features
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect137.7953x39.3701_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect137.7953x39.3701_240\features
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect137.7953x39.3701_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect145.7953x47.3701_60\features
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect145.7953x47.3701_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect145.7953x47.3701_240\features
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\rect145.7953x47.3701_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\s24.4094_60\features
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\s24.4094_210\features
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\s24.4094_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\s32.4094_60\features
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\s32.4094_210\features
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\symbols\s32.4094_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\mechanical_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\mechanical_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\mechanical_13\features
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\mechanical_15\features
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\rout\features
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect19.685x25.5906_30\features
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect20x10_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect23.622x62.9921_150\features
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect23.622x62.9921_330\features
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect25x94_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect27.685x33.5906_30\features
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect28x18_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect31.622x70.9921_150\features
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect31.622x70.9921_330\features
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect33x102_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect47.2441x70.8661_150\features
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect47.2441x70.8661_330\features
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect55.2441x78.8661_150\features
+DItemRevisionGUID=
+
+[GeneratedDocument132]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect55.2441x78.8661_330\features
+DItemRevisionGUID=
+
+[GeneratedDocument133]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect80x60_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument134]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect88x68_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument135]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect118.1102x62.9921_60\features
+DItemRevisionGUID=
+
+[GeneratedDocument136]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect118.1102x62.9921_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument137]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect118.1102x62.9921_240\features
+DItemRevisionGUID=
+
+[GeneratedDocument138]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect118.1102x62.9921_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument139]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect126.1102x70.9921_60\features
+DItemRevisionGUID=
+
+[GeneratedDocument140]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect126.1102x70.9921_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument141]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect126.1102x70.9921_240\features
+DItemRevisionGUID=
+
+[GeneratedDocument142]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect126.1102x70.9921_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument143]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect137.7953x39.3701_60\features
+DItemRevisionGUID=
+
+[GeneratedDocument144]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect137.7953x39.3701_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument145]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect137.7953x39.3701_240\features
+DItemRevisionGUID=
+
+[GeneratedDocument146]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect137.7953x39.3701_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument147]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect145.7953x47.3701_60\features
+DItemRevisionGUID=
+
+[GeneratedDocument148]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect145.7953x47.3701_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument149]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect145.7953x47.3701_240\features
+DItemRevisionGUID=
+
+[GeneratedDocument150]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\rect145.7953x47.3701_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument151]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\s24.4094_60\features
+DItemRevisionGUID=
+
+[GeneratedDocument152]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\s24.4094_210\features
+DItemRevisionGUID=
+
+[GeneratedDocument153]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\s24.4094_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument154]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\s32.4094_60\features
+DItemRevisionGUID=
+
+[GeneratedDocument155]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\s32.4094_210\features
+DItemRevisionGUID=
+
+[GeneratedDocument156]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\symbols\s32.4094_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument157]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument158]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument159]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument160]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument161]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\Pick Place\Pick Place for CTR-Lower-Main-Board-Rev-C(6V Motor Power).txt
+DItemRevisionGUID=
+
+[GeneratedDocument162]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\Pick Place\Pick Place for CTR-Lower-Main-Board-Rev-C(VSW Motor Power).txt
+DItemRevisionGUID=
+
+[GeneratedDocument163]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument164]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument165]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument166]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument167]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument168]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\6V Motor Power\ODB\odb\steps\pcb\layers\rout\tools
+DItemRevisionGUID=
+
+[GeneratedDocument169]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument170]
+DocumentPath=Project Outputs for CTR-Lower-Main-Board-Rev-C\VSW Motor Power\ODB\odb\steps\pcb\layers\rout\tools
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -1110,46 +1790,6 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Ansoft Neutral
-OutputName10=Ansoft Neutral (AutoPCB)
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=HyperLynx
-OutputName11=HyperLynx (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=Orcad SDT Schematic
-OutputName12=Orcad SDT Schematic (AutoSCH)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Orcad v7 Capture Design
-OutputName13=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD ASCII
-OutputName14=P-CAD ASCII (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD V16 Schematic Design
-OutputName15=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Protel PCB 2.8 ASCII
-OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
